@@ -21,18 +21,18 @@ CustomerID: 135,080 missing
 
 ###  Step 2: Data Cleaning Plan
 
-Remove rows with missing Description
+- Remove rows with missing Description
 
-Remove rows with Quantity <= 0 or UnitPrice <= 0
+- Remove rows with Quantity <= 0 or UnitPrice <= 0
 
-Convert InvoiceDate to datetime
+- Convert InvoiceDate to datetime
 
-Clean and standardize Country
+- Clean and standardize Country
 
-Rename all columns to lowercase with underscores
+- Rename all columns to lowercase with underscores
 
-Convert InvoiceNo, StockCode, and CustomerID to string
+- Convert InvoiceNo, StockCode, and CustomerID to string
 
-Remove duplicates
+- Remove duplicates
 
-Add total_price = Quantity × UnitPrice
+- Add total_price = Quantity × UnitPrice
