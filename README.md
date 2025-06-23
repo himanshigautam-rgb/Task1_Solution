@@ -2,9 +2,9 @@
 
 Dataset Link = "https://drive.google.com/file/d/1xcyZnBkHn-7EJAXPmnVkD3ZPEefsjSss/view?usp=sharing"
 
-### Tools & Libraries: Python, Pandas, NumPy.
+### Tools & Libraries: Python, Pandas.
 
-### Cleaning Steps: Missing values, invalid rows, type conversion, text standardization, duplicates, feature creation.
+### Cleaning Steps: Missing values, invalid rows, type conversion, text standardization, duplicates.
 
 ### Step 1: Initial Dataset Overview
 Total Rows: 541,909
